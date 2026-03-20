@@ -279,7 +279,7 @@ PORT=3000 DANGEROUSLY_DISABLE_HOST_CHECK=true npm start
 
 | Role | Email | Password |
 |------|-------|----------|
-| 🛒 **Customer** | `john@example.com` | `test123` |
+| 🛒 **Customer** | `swaraj@example.com` | `test123` |
 | 🍳 **Restaurant Owner** | `admin@foodrush.com` | `admin123` |
 
 ---
