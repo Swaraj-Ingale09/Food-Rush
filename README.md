@@ -327,7 +327,7 @@ The `seed.py` script populates the database with realistic data:
 ```json
 POST /api/auth/login/
 {
-  "email": "john@example.com",
+  "email": "swaraj@example.com",
   "password": "test123"
 }
 ```
@@ -338,8 +338,8 @@ POST /api/auth/login/
   "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
   "user": {
     "id": 4,
-    "username": "john_doe",
-    "email": "john@example.com",
+    "username": "Swaraj",
+    "email": "swaraj@example.com",
     "role": "customer"
   }
 }
